@@ -1,0 +1,6 @@
+name: standalone-env-repo-example
+environments:
+  default:
+    - environment.yml
+variables: {}
+commands: {}

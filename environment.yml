@@ -1,0 +1,15 @@
+name: default
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pip
+  - pip:
+    - scipy
+variables:
+prefix:
+platforms:
+  - osx-64
+  - linux-64
+  - win-64
